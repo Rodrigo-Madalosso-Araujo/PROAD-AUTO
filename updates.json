@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "proad-auto@trt18.jus.br": {
+      "updates": [
+        {
+          "version": "0.24.10",
+          "update_link": "https://raw.githubusercontent.com/Rodrigo-Madalosso-Araujo/PROAD-AUTO/main/xpi/PROAD-AUTO-firefox-0.24.10.xpi"
+        }
+      ]
+    }
+  }
+}
