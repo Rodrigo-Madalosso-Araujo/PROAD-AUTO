@@ -3,8 +3,9 @@
     "proad-auto@trt18.jus.br": {
       "updates": [
         {
-          "version": "0.24.10",
-          "update_link": "https://raw.githubusercontent.com/Rodrigo-Madalosso-Araujo/PROAD-AUTO/main/xpi/PROAD-AUTO-firefox-0.24.10.xpi"
+          "version": "0.24.13",
+          "update_link": "https://raw.githubusercontent.com/Rodrigo-Madalosso-Araujo/PROAD-AUTO/main/xpi/PROAD-AUTO-firefox-0.24.13.xpi",
+          "update_hash": "sha256:5e877ee7e2aacf957860fd1c4f712b0afd3380663703ffdacf010db0f1b4f347"
         }
       ]
     }
